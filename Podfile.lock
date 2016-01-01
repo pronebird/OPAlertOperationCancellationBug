@@ -1,0 +1,10 @@
+PODS:
+  - Operative (0.1.0)
+
+DEPENDENCIES:
+  - Operative
+
+SPEC CHECKSUMS:
+  Operative: 3c29fc7aeb604f8b684030b154c89559ff604d66
+
+COCOAPODS: 0.39.0
